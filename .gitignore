@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# User added
+.mono/
+.import/
+export/
+*.tscn.converted
+*.gltf.converted
+*.obj.converted
+.vscode/
+bin/
